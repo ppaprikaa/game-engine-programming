@@ -1,0 +1,6 @@
+Window SFML_GAME 1280 720
+Font ./fonts/ArialRegular.ttf 18 255 255 255
+Rectangle BRectangle 300.0 300.0 5.0 5.0 0 255 255 100 100
+Rectangle RRectangle 200.0 100.0 -15.0 15.0 255 0 0 200 30
+Circle BCircle 400.0 300.0 35.0 15.0 0 0 255 70
+Circle GCircle 100.0 133.0 -5.0 15.0 125 125 125 130
